@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/Instabug/Instabug-Flutter/" }
 
-gem 'danger'
+gem 'danger', '>= 5.16.1'
